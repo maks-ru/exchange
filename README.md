@@ -1,7 +1,7 @@
 # exchange
 
-## Демо:
-## [Exchange](https://maks-ru.github.io/exchange/)
+## Демо: [Exchange](https://maks-ru.github.io/exchange/)
+
 
 ## Project setup
 ```
